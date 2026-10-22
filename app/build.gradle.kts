@@ -38,6 +38,9 @@ android {
     buildFeatures {
         compose = true
     }
+    testOptions {
+        unitTests.isReturnDefaultValues = true
+    }    
 }
 
 // 🔥 Força versões antigas compatíveis com compileSdk 35 e AGP 8.13
