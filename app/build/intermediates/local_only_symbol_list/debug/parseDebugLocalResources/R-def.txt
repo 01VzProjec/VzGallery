@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_help_outline
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font font_jakarta
+font plus_jakarta_sans_bold
+font plus_jakarta_sans_extrabold
+font plus_jakarta_sans_medium
+font plus_jakarta_sans_regular
+font plus_jakarta_sans_semibold
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.VzGallery
+xml backup_rules
+xml data_extraction_rules

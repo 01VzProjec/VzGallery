@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDE_Projects/VzGallery/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1960,
+          "line": 73
+        },
+        "start": {
+          "column": 1,
+          "index": 1960,
+          "line": 73
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDE_Projects/VzGallery/app/build.gradle.kts"
+}
